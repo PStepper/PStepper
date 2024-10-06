@@ -1,9 +1,15 @@
 ## 👋 Hello, I’m @PStepper
- - 👀 I'm currently using Java and HTML/CSS/JS as my main programming Languages
- - 🌱 I’m currently trying to learn Python and PHP by myself | since the Start of 2022
+ - 👀 I'm currently using C++ and Java as my main programming Languages
+ - 🌱 I’m currently studying Gamedevelopment | since the End of 2023
  - 📫 Developing since ~2017. Started with Java development
- - 💻 Projects im currently working on: Recreation of "Himmelssteine" from Skylanders Giants
-
+ - 💻 Projects im currently working on: Creating a web app for management processes using React and MySQL
+   | Projectname  | Languages Used | Other Contributors |
+   | ------------- | ------------- | ------------- |
+   | Creating a web app for management processes using React and MySQL | JS, HTML+CSS, SQL  | @Koslowsky1337 + @MarvinSchilling
+ - ✅ Projects i have Finished:
+   | Projectname  | Grade ( University ) |
+   | ------------- | ------------- |
+   | Recreation of "Himmelssteine" from Skylanders Giants  | 1,7  |
 
 
 
