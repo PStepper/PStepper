@@ -1,18 +1,45 @@
-## 👋 Hello, I’m @PStepper
- - 👀 I'm currently using C++ and Java as my main programming Languages
- - 🌱 I’m currently studying Gamedevelopment | since the End of 2023
- - 📫 Developing since ~2017. Started with Java development
- - 💻 Projects im currently working on: Creating a web app for management processes using React and MySQL
-   | Projectname  | Languages Used | Other Contributors |
-   | ------------- | ------------- | ------------- |
-   | Creating a web app for management processes using React and MySQL | JS, HTML+CSS, SQL  | @Koslowsky1337 + @MarvinSchilling
- - ✅ Projects i have Finished:
-   | Projectname  | Grade ( University ) |
-   | ------------- | ------------- |
-   | Recreation of "Himmelssteine" from Skylanders Giants  | 1,7  |
+## 🚀 Welcome to My GitHub!  
 
+Hey there! I'm **@PStepper**, a passionate **game developer** and **software engineer**.  
 
+🔹 Currently focused on **C++** and **Java** for game development.  
+🔹 Studying **Game Development** since **2023**.  
+🔹 Started programming in **2017** with Java.  
 
+---
+
+### 💻 Projects I'm Working On  
+🚧 **Ongoing Projects**  
+
+| Project Name | Tech Stack | Collaborators |
+|-------------|-----------|---------------|
+| **Web App for Management Processes** | React, JavaScript, HTML+CSS, MySQL | [@Koslowsky1337](https://github.com/Koslowsky1337), [@MarvinSchilling](https://github.com/MarvinSchilling) |
+
+---
+
+### ✅ Completed Projects  
+
+| Project Name | University Grade |
+|-------------|----------------|
+| **Recreation of "Himmelssteine" from Skylanders Giants** | **1.7** |
+
+---
+
+### 📫 Connect with Me  
+📧 Reach out via GitHub or LinkedIn!  
+💬 Open to discussions about game development and software engineering.  
+
+---
+
+### 🎮 Tech Stack  
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
+⭐ Feel free to **follow** or **collaborate** on exciting projects!  
 
 
 
