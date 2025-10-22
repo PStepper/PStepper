@@ -13,7 +13,7 @@ Hey there! I'm **@PStepper**, a passionate **game developer** and **software eng
 
 | Project Name | Tech Stack | Collaborators |
 |-------------|-----------|---------------|
- 
+| **Firefly in the Dark (Paralax World Building)** | ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white),![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) | **Not Yet Graded** | Name on Request |
 
 ---
 
